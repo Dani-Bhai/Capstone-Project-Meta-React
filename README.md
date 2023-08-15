@@ -1,1 +1,1 @@
-![image](https://github.com/Dani-Bhai/Capstone-Project-Meta-React/assets/62589953/2d68fe84-1935-4da6-92b5-796833166414)
+![meta-front-end-developer-certificate](https://github.com/Dani-Bhai/Capstone-Project-Meta-React/assets/62589953/4017cb75-1b5b-4f91-b999-89a82fa52ba1)
